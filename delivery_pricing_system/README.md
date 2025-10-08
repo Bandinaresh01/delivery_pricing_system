@@ -61,11 +61,4 @@ python test_api_edge_cases.py
 ## Deployment
 The project includes a `Procfile` and `runtime.txt` for deployment on platforms like Heroku.
 
-## Contributing
-Contributions are welcome. Please fork the repository and create a pull request.
 
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For questions or support, please contact the maintainer.
